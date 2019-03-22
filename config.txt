@@ -17,7 +17,6 @@ filter.lfs.required=true
 credential.helper=manager
 core.editor=nano.exe
 user.email=karl.marten.magi@gmail.com
-user.name=Karlipoisike
 karl.marten.magi@gmail.com=Karlipoisike
 core.repositoryformatversion=0
 core.filemode=false
@@ -29,4 +28,5 @@ remote.origin.url=C:/Users/Karl Marten M<C3><A4>gi/Documents/gitiOppimine/firstO
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
 branch.master.remote=origin
 branch.master.merge=refs/heads/master
+Java gitignore added
 
